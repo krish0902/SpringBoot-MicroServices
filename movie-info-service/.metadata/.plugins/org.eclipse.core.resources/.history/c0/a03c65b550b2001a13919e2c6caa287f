@@ -1,0 +1,5 @@
+package io.java.movieinfoservice.models;
+
+public class MovieSummary {
+
+}
